@@ -4,7 +4,7 @@
 Technologies:
 <ul>
   <li />React frontend
-  <li />Node.js backend
+  <li />Rails backend
   <li />HTML/CSS
 </ul>
 
