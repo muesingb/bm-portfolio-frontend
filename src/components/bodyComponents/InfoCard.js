@@ -1,6 +1,7 @@
 import React from 'react';
 
-const InfoCard = () => {
+const InfoCard = (props) => {
+    console.log(props)
     return (
         <>
             <h1>InfoCard</h1>
