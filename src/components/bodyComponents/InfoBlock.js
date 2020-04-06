@@ -14,12 +14,10 @@ const InfoBlock = (props) => {
               })
     }, [])
 
-    // console.log(infoCards)
-
     return (
         <>
             <h1>{props.name}</h1>
-            {infoCards.map(infocard => <InfoCard key={infocard} id={infocard.id} />)}
+            {infoCards.map(infocard => <InfoCard key={infocard} id={infocard} />)}
         </>
     )
 }
