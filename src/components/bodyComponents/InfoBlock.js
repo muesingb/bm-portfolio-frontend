@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Title, Wrapper } from '../styleComponents/SectionStyle'
 import InfoCard from './InfoCard';
 
 const InfoBlock = (props) => {
@@ -15,10 +16,10 @@ const InfoBlock = (props) => {
     }, [])
 
     return (
-        <>
-            <h1>{props.name}</h1>
-            {infoCards.map(infocard => <InfoCard key={infocard} id={infocard} />)}
-        </>
+      <Wrapper>
+        <Title>{props.name}</Title>
+        {infoCards.map(infocard => <InfoCard key={infocard} id={infocard}/>)}
+      </Wrapper>
     )
 }
 
