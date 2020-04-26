@@ -8,6 +8,8 @@ Technologies:
   <li />HTML/CSS
 </ul>
 
+![Domain Model for Portfolio](https://imgur.com/a/oD97dFG)
+
 ## Meta
 
 Barbara Muesing – [LinkedIn](https://www.linkedin.com/in/barbara-muesing) – muesingb@gmail.com
