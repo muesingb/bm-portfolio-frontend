@@ -8,7 +8,7 @@ Technologies:
   <li />HTML/CSS
 </ul>
 
-![Domain Model for Portfolio](https://imgur.com/a/oD97dFG.png)
+![Domain Model for Portfolio](https://i.imgur.com/RJEDjrn.png)
 
 ## Meta
 
